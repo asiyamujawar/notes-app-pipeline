@@ -1,4 +1,4 @@
-# Automated Notes App using Jenkins With Email Notifiactions of Pass or Failed!
+# Automated Notes App using Jenkins With Email Notifications of Pass or Failed!
 This is a simple notes app built with React and Django.
 
 ## Requirements
